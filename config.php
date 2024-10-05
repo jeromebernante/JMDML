@@ -18,3 +18,9 @@ function loadEnv(string $path): void {
 }
 
 loadEnv(__DIR__ . '/.env');
+
+
+//Group members
+//Bernante, Jerome
+//Lempio, Mark Dave
+//Gozon, Mark Lester
